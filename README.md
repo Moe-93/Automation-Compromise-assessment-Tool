@@ -206,16 +206,6 @@ The tool maps findings to the following MITRE ATT&CK tactics and techniques:
 - MITRE technique mappings
 - Metadata and timestamps
 
-## Test Data Generation
-
-Generate sample test data for validation:
-
-```bash
-python utils/test_data_generator.py
-```
-
-This creates realistic forensic artifacts with embedded suspicious activity for testing the tool's detection capabilities.
-
 ## Exit Codes
 
 - **0**: No critical findings detected
@@ -243,7 +233,6 @@ ca_tool/
 │   └── report_generator.py     # HTML and JSON report generation
 ├── utils/
 │   ├── __init__.py
-│   └── test_data_generator.py  # Test data generation utility
 └── reports/                    # Output directory (created automatically)
 ```
 
