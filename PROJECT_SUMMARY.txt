@@ -144,8 +144,6 @@ REQUIREMENTS
 
 TESTING
 -------
-  python utils/test_data_generator.py  # Generate test data
-  python demo.py                        # Run demonstration
   python cat.py --list-artifacts       # List supported artifacts
 
 SUPPORT & DOCUMENTATION
