@@ -204,7 +204,7 @@ class ArtifactCollector:
             },
             "USBSTOR": {
                 "registry_path": r"HKLM\SYSTEM\CurrentControlSet\Enum\USBSTOR",
-                "dest": "USBSTOR\usb_registry.txt",
+                "dest": r"USBSTOR\usb_registry.txt",
                 "type": "registry"
             },
             "BrowsingHistory": {
