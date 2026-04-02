@@ -218,7 +218,7 @@ class ArtifactCollector:
             },
             "RunningProcesses": {
                 "command": "wmic process get Name,ProcessId,CommandLine,ExecutablePath /format:csv",
-                "dest": "Processes\running_processes.csv",
+                "dest": "Processes\\running_processes.csv",
                 "type": "command"
             }
         }
