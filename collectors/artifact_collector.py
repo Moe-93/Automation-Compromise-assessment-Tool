@@ -199,7 +199,7 @@ class ArtifactCollector:
             },
             "MFT": {
                 "command": "fsutil fsinfo ntfsinfo C:",
-                "dest": "MFT\ntfsinfo.txt",
+                "dest": "MFT\\ntfsinfo.txt",
                 "type": "command"
             },
             "USBSTOR": {
