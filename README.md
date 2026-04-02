@@ -1,4 +1,5 @@
 # Compromise Assessment Tool (CAT)
+<img width="1261" height="749" alt="Screenshot 2026-04-02 at 4 25 42 PM" src="https://github.com/user-attachments/assets/7cb6965e-abb3-4185-a8b7-758e4803c8a3" />
 
 A comprehensive Python-based forensic analysis tool that parses Windows and Linux artifacts, detects malicious activities and anomalies, and maps findings to the MITRE ATT&CK framework.
 
