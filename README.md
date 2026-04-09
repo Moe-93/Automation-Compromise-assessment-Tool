@@ -300,7 +300,7 @@ MIT License - See LICENSE file for details
 
 ## Support
 
-For issues, questions, or contributions, please refer to the project repository or contact the maintainers.
+For issues, questions, or contributions, please refer to the project repository or contact me on this email :- moaqeel@protonmail.com.
 
 ---
 
